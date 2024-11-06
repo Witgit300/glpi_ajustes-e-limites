@@ -76,3 +76,10 @@ Tecnologias Usadas
     JavaScript:
         jQuery: Facilita a manipulação do DOM e a implementação de funcionalidades interativas.
         MutationObserver: Permite monitorar mudanças no DOM e aplicar funcionalidades a elementos adicionados dinamicamente.
+
+
+
+Contribuição
+
+Contribuições são bem-vindas! Se você deseja contribuir com melhorias, correções de bugs ou novas funcionalidades
+
