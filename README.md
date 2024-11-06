@@ -1,6 +1,12 @@
 GLPI - Ajustes e Limites
 
-Este plugin para GLPI oferece múltiplas funcionalidades para aprimorar a interface do usuário, incluindo a desativação do preenchimento automático (autocomplete) em campos de entrada, limitação da quantidade de itens por página em dropdowns e desativação de botões de ação quando mais de um número específico de checkboxes é selecionado.
+Este plugin para GLPI oferece múltiplas funcionalidades para limitar e melhorar a utilização da ferramenta. 
+
+Incluindo a desativação do preenchimento automático (autocomplete) em todas as telas do GLPI que possuem campos input (evita problemas de alteraçao de cadastros nas telas de forma indesejavel) 
+Limitação da quantidade de itens por página. O GLPI não limita a quanntidade de itens por paginas e isso pode ser um problema para performance e estabilidade da ferramenta  
+Limitar o botão de Ações Automaticas para permitir um máximo de alterações por vez.
+
+
 Instalação
 
     Download do Plugin:
